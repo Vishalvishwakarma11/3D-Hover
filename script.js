@@ -27,8 +27,3 @@ class Item {
 
 
 nodes.forEach(node => new Item(node));
-
-
-
-
-m
